@@ -413,7 +413,7 @@ dhcps.en=1
 dhcps.list1=1;br0;192.168.1.31;192.168.1.254;192.168.1.1;255.255.255.0;1440;192.168.1.1;;host
 dhcps.list2=1;br0;192.168.1.2;192.168.1.30;192.168.1.1;255.255.255.0;1440;192.168.1.1;;dev
 dhcps.listnum=2
-dhcps.static.list1=1    14:DA:E9:38:EC:40       192.168.1.70
+dhcps.static.list1=1;14:DA:E9:38:EC:40;192.168.1.70
 dhcps.static.listnum=1
 ```
 
